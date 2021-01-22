@@ -1,4 +1,5 @@
-# extractingtextfrommultipleimagesgooglevisionOCR
+# Extracting text from multiple images Google Vision OCR
+
 Extracting text from multiple images Google Vision OCR
 
 Dataset used for Extracting text from multiple images Google Vision OCR is uploaded!
